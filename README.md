@@ -1,4 +1,4 @@
-# 🚀 Laravel 10 Dockerized
+# 🔥 Laravel 10 Dockerized
 
 ## Includes
  - Laravel 10
@@ -18,6 +18,13 @@ $ docker-compose exec app php artisan migrate
 ```bash
 $ docker-compose up -d
 ```
+
+## 🫰 Note
+
+**Update /src/.env file according to docker-compose.yml file**
+
+
+### 🎬 Screenshots
 
 ![laravel](https://i.imgur.com/iEoMDen.png)
 ![phpmyadmin](https://i.imgur.com/xUHebv7.png)
