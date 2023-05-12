@@ -17,3 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+.composer/
+.mysql_history
+.config/
+src/.bash_history

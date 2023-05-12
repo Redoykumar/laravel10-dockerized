@@ -3,25 +3,17 @@
 ## Includes
  - Laravel 10
  - MySQL
- - phpmyadmin
+ - phpMyadmin
 
 
 ## 🚀 Initial Setup
 
 ```bash
-$ docker-compose up -d
-$ docker-compose exec app php artisan key:generate
-$ docker-compose exec app php artisan migrate
+$ bash setup.sh
 ```
-
-## ✅ Once installed
-```bash
-$ docker-compose up -d
-```
-
 ## 🫰 Note
 
-**Update /src/.env file according to docker-compose.yml file**
+**Update /src/.env file**
 
 
 ### 🎬 Screenshots
